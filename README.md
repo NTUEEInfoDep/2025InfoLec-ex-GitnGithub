@@ -2,6 +2,17 @@
 
 This project teaches you to use git, Github, and demonstrates the Lightdance workflow.
 
+```
+Δ~~~~~Δ 
+ξ ･ェ･ ξ 
+ξ  ~  ξ 
+ξ　　  ξ 
+ξ　　 　“~～~～~～〇 
+ξ　　　　　    　　ξ 
+ξ　 ξ　ξ~～~～ξ　 ξ 
+ ξ_ξξ_ξ　  ξ_ξξ_ξ 
+```
+
 ## Usage
 
 1. Fork a copy from the organization repo.
