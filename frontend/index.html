@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Frontend/Backend Tester</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>People Mountain People Sea</h1>
+        <div class="result-container">
+            <p>Result:</p>
+            <p id="result"></p>
+        </div>
+        <div class="get-container">
+            <button id="btn-get">GET</button>
+        </div>
+        <div class="post-container">
+            <input type="text" id="input-name-post" placeholder="new name" tabindex="1"/>
+            <input type="text" id="input-pwd-post" placeholder="new pwd" tabindex="1"/>
+            <button id="btn-post">POST</button>
+        </div>
+        <div class="put-container">
+            <input type="text" id="input-id-put" placeholder="old id" tabindex="1"/>
+            <input type="text" id="input-name-put" placeholder="new name" tabindex="1"/>
+            <input type="text" id="input-pwd-put" placeholder="new pwd" tabindex="1"/>
+            <button id="btn-put">PUT</button>
+        </div>
+        <div class="delete-container">
+            <input type="text" id="input-id-delete" placeholder="delete id" tabindex="1"/>
+            <button id="btn-delete">DELETE</button>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
