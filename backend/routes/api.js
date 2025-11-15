@@ -12,6 +12,16 @@ const db = {
 		name: "Smallbee",
 		pwd: "asdfgh",
     },
+	{
+		id: "2",
+		name: "Giantbee",
+		pwd: "abcdef",
+    },
+	{
+		id: "3",
+		name: "Minibee",
+		pwd: "ghijkl",
+    },
   ],
 };
 
