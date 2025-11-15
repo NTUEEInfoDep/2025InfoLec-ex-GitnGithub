@@ -2,6 +2,8 @@
 
 This project teaches you to use git, Github, and demonstrates the Lightdance workflow.
 
+## I'm Melody!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ## Usage
 
 1. Fork a copy from the organization repo.
