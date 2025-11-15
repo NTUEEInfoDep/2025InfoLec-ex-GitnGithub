@@ -8,7 +8,7 @@ This project teaches you to use git, Github, and demonstrates the Lightdance wor
 
 1. Fork a copy from the organization repo.
 2. Clone the repo to local.
-```
+
 git clone <your_repo>
 cd <folder>
 
