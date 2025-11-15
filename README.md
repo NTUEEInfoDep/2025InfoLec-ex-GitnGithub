@@ -1,3 +1,4 @@
+---------------------------------------------------------------------------------------------
 # 2025InfoLec-ex-GitnGithub
 
 This project teaches you to use git, Github, and demonstrates the Lightdance workflow.
@@ -61,3 +62,4 @@ git push -u -f origin SERVER-{ISSUE_ID}
 ## Practice
 
 Find the hidden flag (format: `BIGBEE{...}`) in the repo.
+------------------------------------------------------------------------------------------------------
